@@ -1,0 +1,17 @@
+# virtual environments
+venv/
+.venv/
+
+# IDE
+.idea/
+*.iml
+
+# python cache
+__pycache__/
+*.pyc
+
+# mac
+.DS_Store
+
+# env
+.env
