@@ -1,7 +1,7 @@
 # WNBA Financial & Momentum Analysis
 
 A Streamlit project analyzing WNBA league momentum and team salary cap structure from 2021 to 2025.
-
+https://wnba-financial-momentum-analysis-nq9dgqktostsjnqdryfqln.streamlit.app/
 ## Project Overview
 
 This project explores WNBA growth from two levels:
